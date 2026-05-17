@@ -8,7 +8,7 @@ export default function HomePage() {
       <div className="grid grid-cols-2 md:grid-cols-3 gap-[2px]">
         {portfolioItems.map((item, i) => (
           <Link key={i} href={`/${item.slug}`} className="block group">
-            <div className="bg-[#ebebeb] aspect-square relative overflow-hidden">
+            <div className="bg-white aspect-square relative overflow-hidden">
               <Image
                 src={item.image}
                 alt=""

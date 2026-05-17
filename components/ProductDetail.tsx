@@ -11,7 +11,7 @@ export default function ProductDetail({ product }: { product: Product }) {
   return (
     <div className="flex flex-col md:flex-row gap-8 max-w-4xl">
       <div className="md:w-1/2">
-        <div className="bg-[#ebebeb] aspect-square relative overflow-hidden mb-3">
+        <div className="bg-white aspect-square relative overflow-hidden mb-3">
           {product.images[selectedImage] && (
             <Image
               src={product.images[selectedImage]}
@@ -28,7 +28,7 @@ export default function ProductDetail({ product }: { product: Product }) {
               <button
                 key={i}
                 onClick={() => setSelectedImage(i)}
-                className={`w-14 h-14 bg-[#ebebeb] relative overflow-hidden border-2 transition-colors ${
+                className={`w-14 h-14 bg-white relative overflow-hidden border-2 transition-colors ${
                   i === selectedImage ? "border-black" : "border-transparent"
                 }`}
               >

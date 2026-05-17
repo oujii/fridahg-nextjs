@@ -15,7 +15,7 @@ export default function ShopPage() {
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
         {products.map((product) => (
           <Link key={product.slug} href={`/shop/${product.slug}`} className="group">
-            <div className="bg-[#ebebeb] aspect-square relative overflow-hidden mb-2">
+            <div className="bg-white aspect-square relative overflow-hidden mb-2">
               {product.images[0] && (
                 <Image
                   src={product.images[0]}

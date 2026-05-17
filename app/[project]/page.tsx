@@ -38,7 +38,7 @@ export default async function ProjectPage({
           style={{ gridTemplateColumns: `repeat(${cols}, minmax(0, 1fr))` }}
         >
           {project.images.map((src, i) => (
-            <div key={i} className="bg-[#ebebeb] aspect-square relative overflow-hidden">
+            <div key={i} className="bg-white aspect-square relative overflow-hidden">
               <Image
                 src={src}
                 alt=""
