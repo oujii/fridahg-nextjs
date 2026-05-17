@@ -4,8 +4,8 @@ import { portfolioItems } from "@/lib/data";
 
 export default function HomePage() {
   return (
-    <div className="px-2 py-2">
-      <div className="grid grid-cols-2 md:grid-cols-3">
+    <div className="bg-white px-2">
+      <div className="grid grid-cols-2 md:grid-cols-3 gap-[2px]">
         {portfolioItems.map((item, i) => (
           <Link key={i} href={`/${item.slug}`} className="block group">
             <div className="bg-[#ebebeb] aspect-square relative overflow-hidden">

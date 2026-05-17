@@ -285,19 +285,20 @@ export const projects: Project[] = [
   },
 ];
 
+// Exakt ordning och exakta bilder extraherade från Wix-startsidan via Playwright
 export const portfolioItems = [
-  { slug: "kryptogam", image: "https://static.wixstatic.com/media/bba9dd_18ef02e89eb64dfd8560707d3a8cb757~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
-  { slug: "hdc-weekly-magazine", image: "https://static.wixstatic.com/media/bba9dd_2dc6a5de4f214f99a74df76d1ce8a24d~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
-  { slug: "inmemoriaminfuturum", image: "https://static.wixstatic.com/media/bba9dd_12b844b6595744199e6399a1e99d3f8c~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
-  { slug: "owe90", image: "https://static.wixstatic.com/media/bba9dd_f91e68bbbdff483885a5cee9a446c1d2~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
-  { slug: "graphic-design-for-swing-dance", image: "https://static.wixstatic.com/media/bba9dd_e7c4efdbd6e64134853382dc43b87cc3~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
-  { slug: "athens-rhythm-hop", image: "https://static.wixstatic.com/media/bba9dd_ac45d85dc7a04c97821efa5f967d22ad~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
-  { slug: "se-upp-foer-livet", image: "https://static.wixstatic.com/media/bba9dd_d369d9357b7a4099ad9d71511436e65c~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
-  { slug: "kanslan", image: "https://static.wixstatic.com/media/bba9dd_090103ef7a024d1482e13cf754ac259d~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
-  { slug: "hex", image: "https://static.wixstatic.com/media/bba9dd_97afde74c0564569bd21562890d9008f~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
-  { slug: "owe90", image: "https://static.wixstatic.com/media/bba9dd_d476a0204ebc4d939f32913b86860dfa~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
-  { slug: "kryptogam", image: "https://static.wixstatic.com/media/bba9dd_7eb5a27b54d04e198da2f71a9af5922c~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
-  { slug: "athens-rhythm-hop", image: "https://static.wixstatic.com/media/bba9dd_1e053f9317584d1c95ab0d25061b180e~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
+  { slug: "se-upp-foer-livet",             image: "https://static.wixstatic.com/media/bba9dd_1e053f9317584d1c95ab0d25061b180e~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
+  { slug: "hdc-weekly-magazine",            image: "https://static.wixstatic.com/media/bba9dd_ac45d85dc7a04c97821efa5f967d22ad~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
+  { slug: "kryptogam",                      image: "https://static.wixstatic.com/media/bba9dd_e7c4efdbd6e64134853382dc43b87cc3~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
+  { slug: "owe90",                          image: "https://static.wixstatic.com/media/bba9dd_2dc6a5de4f214f99a74df76d1ce8a24d~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
+  { slug: "graphic-design-for-swing-dance", image: "https://static.wixstatic.com/media/bba9dd_d476a0204ebc4d939f32913b86860dfa~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
+  { slug: "athens-rhythm-hop",              image: "https://static.wixstatic.com/media/bba9dd_f91e68bbbdff483885a5cee9a446c1d2~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
+  { slug: "hex",                            image: "https://static.wixstatic.com/media/bba9dd_18ef02e89eb64dfd8560707d3a8cb757~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
+  { slug: "kanslan",                        image: "https://static.wixstatic.com/media/bba9dd_7eb5a27b54d04e198da2f71a9af5922c~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
+  { slug: "owe90",                          image: "https://static.wixstatic.com/media/bba9dd_12b844b6595744199e6399a1e99d3f8c~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
+  { slug: "se-upp-foer-livet",              image: "https://static.wixstatic.com/media/bba9dd_d369d9357b7a4099ad9d71511436e65c~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
+  { slug: "inmemoriaminfuturum",            image: "https://static.wixstatic.com/media/bba9dd_090103ef7a024d1482e13cf754ac259d~mv2.gif/v1/fit/w_600,h_600,q_90/file.webp" },
+  { slug: "kryptogam",                      image: "https://static.wixstatic.com/media/bba9dd_97afde74c0564569bd21562890d9008f~mv2.jpg/v1/fill/w_600,h_600,q_90/file.jpg" },
 ];
 
 export function getProduct(slug: string): Product | undefined {

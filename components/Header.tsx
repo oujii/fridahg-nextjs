@@ -12,7 +12,7 @@ export default function Header() {
   ];
 
   return (
-    <header className="px-6 py-4 flex items-center justify-between">
+    <header className="px-5 py-4 flex items-center justify-between bg-white">
       <Link href="/" className="text-sm font-normal tracking-wide lowercase">
         frida häggström gerdt
       </Link>
@@ -26,7 +26,7 @@ export default function Header() {
             <Link
               key={href}
               href={href}
-              className={`text-sm ${active ? "font-semibold" : "font-normal text-gray-500 hover:text-black"} transition-colors`}
+              className={`text-sm tracking-wide ${active ? "font-bold text-black" : "font-normal text-gray-400 hover:text-black"} transition-colors`}
             >
               {label}
             </Link>
