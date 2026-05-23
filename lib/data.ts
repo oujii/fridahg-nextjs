@@ -252,7 +252,13 @@ export const projects: Project[] = [
   {
     slug: "se-upp-foer-livet",
     title: "Se upp för livet!",
-    images: [],
+    images: [
+      "https://static.wixstatic.com/media/bba9dd_37c9bb2914ac40fda03372b23320201b~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_91641d4093f94a039c820bb9cb7e8f46~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_67d730211810427b8176dbf3effd80a6~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_2a0b584ea2954a018825e27179cb1077~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_7d43659b1264456f8b9cbd4096e56ab6~mv2.jpg",
+    ],
     content: [
       "Se upp för livet! is a Swedish children's book about road safety, illustrated and designed by Frida.",
       "2019",
@@ -261,7 +267,14 @@ export const projects: Project[] = [
   {
     slug: "inmemoriaminfuturum",
     title: "In memoriam/In futurum",
-    images: [],
+    images: [
+      "https://static.wixstatic.com/media/bba9dd_216b331440564bbb9575597174ad008c~mv2.gif",
+      "https://static.wixstatic.com/media/bba9dd_388cde6ab28449f69912365891b86983~mv2.gif",
+      "https://static.wixstatic.com/media/bba9dd_4bd9c1cdc7484f2aa400af74fb7b073a~mv2.gif",
+      "https://static.wixstatic.com/media/bba9dd_4be6f62aa6d04a4b89013e6e02232807~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_c7d3a0facb15420bb1a9bafc18e00bb2~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_d87607a8a36b4ea593811d492bfa8640~mv2.jpg",
+    ],
     content: [
       "A personal project exploring the relationship between memory and the future.",
     ],
@@ -269,7 +282,15 @@ export const projects: Project[] = [
   {
     slug: "hdc-weekly-magazine",
     title: "HDC Weekly Magazine",
-    images: [],
+    images: [
+      "https://static.wixstatic.com/media/bba9dd_53a8d56d0d4749dab74aa94a88312ec8~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_a079a6a0f5f24eb69c4f909bfc92b7b8~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_cc1929746c6548f9b528c7a62ee02956~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_d0eff151274a4007b1cf40d0c98f2b91~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_dad09806c8d0425b98f7520486f2c2eb~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_eb6cc12f9fe9405290c9b1773d45e28e~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_ecdb7dad9e7e4229826c74d48a07f720~mv2.jpg",
+    ],
     content: [
       "Magazine design for the Herräng Dance Camp weekly publication.",
       "2018",
@@ -278,7 +299,11 @@ export const projects: Project[] = [
   {
     slug: "hex",
     title: "hex",
-    images: [],
+    images: [
+      "https://static.wixstatic.com/media/bba9dd_1be7951654f74d33a9990b2dab579d47~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_6383c5f2e98541a2b955ac75450fcab8~mv2.jpg",
+      "https://static.wixstatic.com/media/bba9dd_ee6b0895746848e3a98c6fe74988abcf~mv2.jpg",
+    ],
     content: [
       "hex is a personal project exploring color and form.",
     ],
