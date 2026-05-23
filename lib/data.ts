@@ -194,7 +194,6 @@ export const projects: Project[] = [
     ],
     content: [
       "New flyer design for swing dance festival Athens Rhythm Hop, with their existing logotype as starting point. Adapted into flyers, bag and t-shirt print, diplomas, brochure and interior decoration.",
-      "2019",
     ],
   },
   {
@@ -209,7 +208,7 @@ export const projects: Project[] = [
       "Owe Thörnqvist was one of the first artists to introduce rock music in Sweden in the 50s. In 2019 he celebrated his 90th birthday with a jubilee phonogram consisting of previously unreleased as well as newly recorded songs. The CD, Owe 90, was released together with a unique booklet, consisting of song lyrics as well as stories and archive pictures from Thörnqvist's life and career, in close collaboration with Owe himself.",
       "Graphic design and layout (booklet, CD and cover)",
       "Client: Porter & Thorells Syndrom",
-      "2019",
+      "56 pages, 210x210mm. 2019",
     ],
   },
   {
@@ -221,9 +220,9 @@ export const projects: Project[] = [
       "https://static.wixstatic.com/media/bba9dd_12b844b6595744199e6399a1e99d3f8c~mv2.gif",
     ],
     content: [
-      "Cover art for Swedish ambient project, consisting of three individual singles forming a full album (LP).",
+      "Cover art for Swedish ambient project Kryptogam, consisting of three individual singles forming a full album (LP).",
       "Album: Karantän",
-      "2020",
+      "Singles: Rutin, Framtid, Nutid",
     ],
   },
   {
@@ -235,8 +234,9 @@ export const projects: Project[] = [
       "https://static.wixstatic.com/media/bba9dd_97afde74c0564569bd21562890d9008f~mv2.jpg",
     ],
     content: [
-      "Känslan is a Swedish short film about a father and his teenage son coping with grief. Graphic design and art direction for the film.",
-      "2020",
+      "'Känslan' is an abstract picture book that goes through a series of emotions. Big and small, enjoyable and unpleasant. How does it feel? What are your fears? What do you see in the pictures? There is no right or wrong — let your imagination lead the way on this emotional journey of shapes and colors.",
+      "Recommended from 5 years old and up.",
+      "48 pages, 15x15cm. 2021 (Unpublished).",
     ],
   },
   {
@@ -246,7 +246,7 @@ export const projects: Project[] = [
       "https://static.wixstatic.com/media/bba9dd_090103ef7a024d1482e13cf754ac259d~mv2.gif",
     ],
     content: [
-      "A series of graphic design projects for swing dance communities, festivals and events.",
+      "Various flyers and designs for swing dance related happenings such as Herräng Dance Camp, Athens Rhythm Hop and shows by Harlem Hot Shots.",
     ],
   },
   {
@@ -260,8 +260,7 @@ export const projects: Project[] = [
       "https://static.wixstatic.com/media/bba9dd_7d43659b1264456f8b9cbd4096e56ab6~mv2.jpg",
     ],
     content: [
-      "Se upp för livet! is a Swedish children's book about road safety, illustrated and designed by Frida.",
-      "2019",
+      "Artist's book collection, memories on waste paper. Final project at Grafikskolan 2015, group exhibition at Grafiska Sällskapet, Stockholm. 10 pieces, A6 (folded A3), edition of 10.",
     ],
   },
   {
@@ -276,7 +275,10 @@ export const projects: Project[] = [
       "https://static.wixstatic.com/media/bba9dd_d87607a8a36b4ea593811d492bfa8640~mv2.jpg",
     ],
     content: [
-      "A personal project exploring the relationship between memory and the future.",
+      "Visual identity, website and logo for In memoriam/In futurum.",
+      '"In memoriam/In futurum is an interdisciplinary artistic project with curating students at Stockholm University, artists studying at the Royal Institute of Art (KKH) and student researchers from different departments at Stockholm University. … an experimental zine project bridging art and science"',
+      "The task was to create a simple logo and some sort of visual coherence for the project's website and social media channels. As In memoriam/In futurum circulates around experimentation I was given completely free hands next to the keywords changeable, playful (non-corporate) and research, as well as the color orange.",
+      'I went for the typeface Syne, which has a nice contrast between modern strictness and experimental playfulness. The mischievous italic style became the foundation of the illustrations, hinting of both experimentation and research, with its scientific symbols made into little "artworks". The orange shapes are a product of my own experimentation, starting with simple vector shapes, printed through a Risograph, run through the scanner and finally distorted in Photoshop. All shapes and illustrations can be combined freely as a way for the management to experiment themselves along the way, and have the visuals be constantly changeable and organic.',
     ],
   },
   {
@@ -292,8 +294,13 @@ export const projects: Project[] = [
       "https://static.wixstatic.com/media/bba9dd_ecdb7dad9e7e4229826c74d48a07f720~mv2.jpg",
     ],
     content: [
-      "Magazine design for the Herräng Dance Camp weekly publication.",
-      "2018",
+      "Herräng Dance camp is the world's largest and oldest swing dance festival running for five weeks each summer outside of Stockholm, Sweden. In 2016 they decided to update their weekly brochure—previously just filled with plain text and information about the camp's facilities—and partly turn it into an editorial magazine. As the company's only active graphic designer I was in charge for the entire base design, layout and illustrations, and worked closely together with the editor to develop and create the content of the magazines.",
+      "HDC Weekly Magazine is handed out to all participants of the festival for free, with one new issue per week, featuring an interview with a dancer teaching at the camp that particular week. Each issue has its own primary color (from the graphic identity) to differentiate it from the previous weeks, as some people stay at the camp for a longer period of time.",
+      "Running each festival since 2017, five issues per year. 28 pages. A5.",
+      "Publisher: Herräng Dance Camp",
+      "Editor in Chief: Annika Munter",
+      "Main Photographer: Tamara Pinco",
+      "Graphic Design and Illustration: Frida Häggström Gerdt",
     ],
   },
   {
@@ -305,7 +312,7 @@ export const projects: Project[] = [
       "https://static.wixstatic.com/media/bba9dd_ee6b0895746848e3a98c6fe74988abcf~mv2.jpg",
     ],
     content: [
-      "hex is a personal project exploring color and form.",
+      "A free monthly, minimalistic one-spread periodical for friends and acquaintances, running between April 2016 and Mars 2017. Full details at cargocollective.com/hextidsskrift.",
     ],
   },
 ];
